@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER quantumhpc
+MAINTAINER QuantumHPC <info@quantumhpc.com>
 
 RUN echo deb http://www.openfoam.com/download/ubuntu trusty main >> /etc/apt/sources.list.d/openfoam.list
 
